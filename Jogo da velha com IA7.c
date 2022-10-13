@@ -29,6 +29,7 @@ int main(void){
 	printf("%s\n\n", texto);	
 
 	int x, y[5], s;	
+	
 			
 	for (x=0; x<10; x++){
 		var[x] = ' ';
